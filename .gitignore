@@ -1,0 +1,34 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Archivos compilados
+__pycache__/
+*.py[cod]
+
+# Selenium y navegadores
+chromedriver.exe
+*.zip
+
+# Cachés y reportes de pruebas
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+*.log
+
+# IDEs y configuración local
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales
+*.tmp
+*.bak
+*.out
+.DS_Store
+Thumbs.db
